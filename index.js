@@ -172,9 +172,9 @@ if(senderNumber.includes("94775383340")){
 if(isReact) return
 m.react("👩🏽‍💻")
 }
-if(senderNumber.includes("94753751559")){
+if(senderNumber.includes("94784435032")){
 if(isReact) return
-m.react("👾")
+m.react("😂")
 }
 if(senderNumber.includes("94771588807")){
 if(isReact) return
